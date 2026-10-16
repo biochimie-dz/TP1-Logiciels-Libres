@@ -1,4 +1,4 @@
-# TP1-Logiciels-LibresWriting
+# TP1-Logiciels-Libres
 Specialty: Biochemistry
 1. Objective
 To discover Free and Open Source Software and learn how to use Git and GitHub to share files and collaborate with other students.

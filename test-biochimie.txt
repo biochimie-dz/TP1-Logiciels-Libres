@@ -1,0 +1,4 @@
+TP1 – Logiciels Libres et Open Source
+Spécialité : Biochimie
+Objectif : apprendre à partager des fichiers avec GitHub.
+Ce fichier est créé dans le cadre du TP1 pour découvrir le partage de fichiers.
